@@ -1,5 +1,7 @@
 # Banking-Application-CICD
 # CICD-for-Banking-Application
+![image](https://github.com/user-attachments/assets/5aed3267-7f63-4a10-a3a3-093192ccc506)
+
 
 ## DevOps Pipeline Implementation
 Designed and implemented a robust CI/CD pipeline using Jenkins, Docker, and AWS services (ECR, ECS).
